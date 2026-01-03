@@ -16,7 +16,7 @@ Programming & Simulink (MATLAB, Arduino)
 
 HVAC & Building Services (HAP, Revit)
 
-Microsoft Office (Word, Excel, PowerPoint, Outlook) :contentReference[oaicite:0]{index=0}
+Microsoft Office (Word, Excel, PowerPoint, Outlook) 
 
 ## Projects
 
