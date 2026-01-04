@@ -39,3 +39,4 @@ Microsoft Office (Word, Excel, PowerPoint, Outlook)
 - Email: yqlasem@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/yazan-alzyuod  
 - GitHub: https://github.com/Yazan-Alzyuod
+- Phone: 00962775327776
