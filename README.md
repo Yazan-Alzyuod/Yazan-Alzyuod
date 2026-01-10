@@ -1,6 +1,11 @@
 # Yazan Alzyuod — Mechanical Engineer
 
-Mechanical Engineer focused on robotic platforms, unmanned ground vehicles (UGVs), and mechanical systems design. Strong background in mechanical design, structural optimization, and system integration with hands-on experience in CAD/CAE workflows, and applied field-testing.
+Innovative Mechanical Engineer with strong expertise in robotics, unmanned ground vehicles (UGVs),
+and mechanical system design. Proven experience delivering award-winning, nationally recognized
+engineering projects involving terrain-adaptive mechanisms, structural optimization, and multidisciplinary
+system integration. Adept at applying engineering analysis, CAD/CAE tools, and strategic problemsolving
+to develop reliable solutions for complex real-world environments. Recognized for leadership,
+adaptability, and a strong drive for continuous professional growth.
 
 ## Core Competencies
 - Mechanical design & structural optimization for mobile robotic systems  
